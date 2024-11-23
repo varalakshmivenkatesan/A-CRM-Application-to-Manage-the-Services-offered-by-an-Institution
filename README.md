@@ -78,5 +78,5 @@ Key features of the application include:
 - *Staff*: Limited access to certain features, mainly for managing customer appointments and tasks.
 - *Customer*: Can view their own profile, book services, and view upcoming appointments.
 
-- For Demo:[click here](https://drive.google.com/file/d/18FCnPW0Xcmz7MsVd0Zc0csqs5AsvR4G6/view?usp=drivesdk) 
+- For Demo video:[click here](https://drive.google.com/file/d/18FCnPW0Xcmz7MsVd0Zc0csqs5AsvR4G6/view?usp=drivesdk) 
 
